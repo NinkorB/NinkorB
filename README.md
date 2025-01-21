@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋!, My name is Ninkor Chandra Barman, an MCA student at NIT Allahabad, currently learning Java Full Stack development, graduating in 2027.</h2>
+<img src="banner.png" alt="GitHub Banner" width="100%" />
+
+<h2 align="left"> Hi 👋! I’m an MCA student at NIT Allahabad, passionate about mastering Java Full Stack development, graduating in 2027.</h2>
 
 ###
 
@@ -10,12 +12,11 @@
 
 ###
 
+
+
+
+<h2> 💻 Tech Stack: </h2>
 <img align="right" height="150" width="265" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47txr1kwue1gdknvb9elrjqdteygn27wlo6rqhqp8z&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-
-
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -36,13 +37,20 @@
 </div>
 
 
+<br>
+
+<div align="left" >
+<img align="left" height="20px" width="40px" src="https://media.giphy.com/media/PWBCZGqdulucLMDy5f/giphy.gif?cid=790b7611o4urpdmqz17o8xubk2n1gksnec6m612182c0ztk9&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+          
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ninkor/) 
+
+
+</div>
 
 ###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ninkor/) 
+<br clear="both">
 
-
-###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NinkorB&theme=shadow_red&no-frame=false&no-bg=false&margin-w=40)
 ###
@@ -58,7 +66,7 @@
 
 
 ###
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=NinkorB&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-
-###
+  <img src="https://streak-stats.demolab.com?user=NinkorB&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
