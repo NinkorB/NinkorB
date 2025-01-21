@@ -42,7 +42,7 @@
 <div align="left" >
 <img align="left" height="20px" width="40px" src="https://media.giphy.com/media/PWBCZGqdulucLMDy5f/giphy.gif?cid=790b7611o4urpdmqz17o8xubk2n1gksnec6m612182c0ztk9&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
           
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ninkor/) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ninkor/) 
 
 
 </div>
