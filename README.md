@@ -1,4 +1,4 @@
-<img src="banner.png" alt="GitHub Banner" width="100%" />
+<img src="banner2.png" alt="GitHub Banner" width="100%" />
 
 <h2 align="left"> Hi 👋! I’m an MCA student at NIT Allahabad, passionate about mastering Java Full Stack development, graduating in 2027.</h2>
 
