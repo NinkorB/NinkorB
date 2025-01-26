@@ -1,11 +1,11 @@
 <h1 align="center">🌟 Welcome to My GitHub Profile! 🌟</h1>
 <img src="banner2.png" alt="GitHub Banner" width="100%" />
-<h2 align="center">Hi 👋, I'm an MCA student at NIT Allahabad, passionate about mastering Java Full Stack development. Graduation: 2027</h2>
+<h2 align="center">Hi 👋, I'm an MCA student at NIT Allahabad, passionate about mastering Java Full Stack development.</h2>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Passionate+Coder;Learning+Java+and+DSA;Striving+to+Be+a+Full-Stack+Developer;Open+to+Collaboration+and+Projects" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Passionate+Coder;Learning+Java+and+DSA;Striving+to+Be+a+Full-Stack+Java+Developer;Open+to+Collaboration+and+Projects" alt="Typing animation" />
 </div>
 
 ---
