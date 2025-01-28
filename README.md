@@ -5,7 +5,10 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Passionate+Coder;Learning+Java+and+DSA;Striving+to+Be+a+Full-Stack+Java+Developer;Open+to+Collaboration+and+Projects" alt="Typing animation" />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=808080&center=true&vCenter=true&width=800&lines=Passionate+Coder+%7C+Aspiring+App+Developer;Learning+Java%2C+DSA%2C+and+Full-Stack+Development;Exploring+the+MERN+Stack+%7C+Building+Awesome+Projects;Learning+JAVA+Full-Stack+Development;Collaboration+and+Innovation+Welcome!" 
+  alt="Typing animation"
+/>
 </div>
 
 ---
